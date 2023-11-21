@@ -1,0 +1,7 @@
+CREATE TABLE BONUS
+	(
+	ENAME NUMBERrrrrrrrrr(10)	,
+	JOB NUMBERrrrrrrrrr(9)  ,
+	SAL NUMBER,
+	COMM NUMBER
+	) ;
