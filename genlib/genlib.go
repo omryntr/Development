@@ -10,6 +10,8 @@ func CelToFah(c float64) float64 {
 	return (c * 1.8) + 32
 }
 
+/// ULA ULA NİYAZİİİİİİİİ
+
 // Feet to Meter
 func FeetToMeter(feet float64) float64 {
 	return feet / 3.2808
